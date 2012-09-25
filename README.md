@@ -1,4 +1,4 @@
-U-Sem: User modeling and analystics framework
+U-Sem: User modeling and analytics framework
 =====
 
 U-Sem is a framework created by the Web Information Systems group of Delft University of Technology. http://wis.ewi.tudelft.nl
